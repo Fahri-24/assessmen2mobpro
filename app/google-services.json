@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "573834702906",
+    "firebase_url": "https://konversi-95c1c-default-rtdb.firebaseio.com",
+    "project_id": "konversi-95c1c",
+    "storage_bucket": "konversi-95c1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573834702906:android:0ebbd709f0a50b2e35c503",
+        "android_client_info": {
+          "package_name": "org.d3if0064.assessment2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573834702906-lt9noce9p7utvsdrtqvcofdqfhf3smj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqv84QswJJi3QBNz-dsXqiKn6w96ubzKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573834702906-lt9noce9p7utvsdrtqvcofdqfhf3smj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

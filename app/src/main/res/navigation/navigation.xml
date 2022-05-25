@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation">
+
+    <fragment
+        android:id="@+id/navi_home"
+        android:name="org.d3if0064.assessment2.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home"/>
+
+    <fragment
+        android:id="@+id/navi_Data"
+        android:name="org.d3if0064.assessment2.DataFragment"
+        android:label="Data Konvert"
+        tools:layout="@layout/fragment_data"/>
+
+    <fragment
+        android:id="@+id/navi_copyright"
+        android:name="org.d3if0064.assessment2.CopyrightFragment"
+        android:label="Copyright"
+        tools:layout="@layout/fragment_copyright"/>
+
+</navigation>

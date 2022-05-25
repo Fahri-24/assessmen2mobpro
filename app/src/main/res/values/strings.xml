@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Assessment2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="judul">Konverter Suhu</string>
+    <string name="celcius">Suhu Celcius</string>
+    <string name="konversi">Konversi suhu ke</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="farenheit">Farenheit</string>
+    <string name="reamur">Reamur</string>
+    <string name="konvert">Konvert</string>
+    <string name="suhu_x">Suhu: %1.2f</string>
+    <string name="kategori_x">Kategori: %1$s</string>
+    <string name="gender_invalid">adasdasd</string>
+    <string name="reset">Reset</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="about_me">Nama : Mohammad Fahri\n\n Nim : 6706200064\n\n Kelas : D3RPLA 44-04</string>
+    <string name="copyright">Konversi Suhu merupakan sebuah aplikasi Android untuk
+mengkonversi suhu dari celcius ke satuan suhu yang lain.\n\nDengan adanya aplikasi ini diharapkan dapat memudahkan orang ketika ingin
+        mengkonversi suhu dari celcius ke satuan suhu yang lain.\n\nAplikasi ini dibuat untuk memenuhi assessment 2 mata kuliah mobpro\n\nCopyright © 2022 Mohammad Fahri.\nAll rights reserved.</string>
+    <string name="suhu_celcius">Suhu Celcius : </string>
+    <string name="hasil_data">Data Konversi</string>
+    <string name="data_celcius">20 derajat</string>
+    <string name="jenis_konversi">Jenis Konversi : </string>
+    <string name="hasil_jenis">Kelvin</string>
+    <string name="hasil_konversi">Hasil Konversi : </string>
+    <string name="hasil_suhu">130 derajat</string>
+</resources>
